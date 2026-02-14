@@ -17,7 +17,7 @@ public class Tugaspertemuan2 {
     //nomor 1    
        Scanner input = new Scanner(System.in);
         
-        /*double a,b,c;
+        double a,b,c;
         
         System.out.println("Masukkan Pecahan Pertama");
         a = input.nextDouble();
@@ -37,10 +37,10 @@ public class Tugaspertemuan2 {
         System.out.println("Hasil Pengurangan = " + kurang);
         System.out.println("Hasil Perkalian = " + kali);
         System.out.println("Hasil Pembagian = " + bagi);
-        */
+        
         
     //nomor 2
-        /*int ranking;
+        int ranking;
         boolean naikKelas;
         
         System.out.println("Apakah Anda Naik Kelas? (true/false)");
@@ -51,11 +51,11 @@ public class Tugaspertemuan2 {
         
         boolean hadiah = (ranking == 1) && (naikKelas);
         System.out.println("Anda dapat hadiah:" + hadiah);
-        */
+        
         
     //nomor 3
-    char a = 'A';
-    char b = 'B';
+    char A = 'A';
+    char B = 'B';
     
         int asciiA = (int) a;
         int asciiB = (int) b;
