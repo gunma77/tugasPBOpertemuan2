@@ -57,8 +57,8 @@ public class Tugaspertemuan2 {
     char A = 'A';
     char B = 'B';
     
-        int asciiA = (int) a;
-        int asciiB = (int) b;
+        int asciiA = (int) A;
+        int asciiB = (int) B;
         
         int hasil = asciiA + asciiB;
         
